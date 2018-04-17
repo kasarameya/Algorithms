@@ -1,0 +1,4 @@
+This is an implementation of Bellman Ford Algorithm
+ using Dynamic Programming.
+  This algorithm provides the shortest distance from source to destination
+ using at-most k edges, where k = Number of vertices - 1
